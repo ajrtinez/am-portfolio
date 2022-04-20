@@ -14,8 +14,13 @@ module.exports = {
       },
       colors: {
         darkGrey: '#121212',
-        offWhite: '#F4F4EC',
-        pastelGreen: '#B8EE96'
+        darkGreyHover: '#4B4B4B',
+        white: '#FFFFFF',
+        lightGrey: '#F4F4F4',
+        pastelGreen: '#A4E772',
+        pastelGreenHover: '#8EE151',
+        makrViolet: '#D2CAFB',
+        makrVioletHover: '#C0B6F7'
       }
     },
   },
