@@ -17,9 +17,8 @@ module.exports = {
       },
       colors: {
         darkGrey: '#121212',
-        darkGreyHover: '#4B4B4B',
+        disabledGrey: '#4B4B4B',
         white: '#FFFFFF',
-        whiteHover: '#F3F3F3',
         lightGrey: '#F4F4F4',
         bgHoverGrey: '#E5E5E5',
         dashGrey: '#DCDEDF',
